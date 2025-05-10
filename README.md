@@ -8,8 +8,10 @@ A simple and elegant To-Do List app built in Swift using **UIKit without Storybo
 
 | Main Screen | Edit Task | Notification |
 |-------------|------------|--------------|
+| ![MainScreen]([https://link-to-main-screen.png](https://github.com/Dobryak99/-MyOwnToDoList/blob/main/screenshots/main.png)) | ![EditTask](https://link-to-edit-screen.png) | ![Notification](https://link-to-notification.png) |
 
 
+https://github.com/Dobryak99/-MyOwnToDoList/blob/main/screenshots/main.png
 ---
 
 ## 🔧 Features
